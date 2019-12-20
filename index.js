@@ -183,8 +183,8 @@ const predictions = `1308       Yassin
 
 async function main() {
     const btcPrice = (await fetch(
-        `https://api.coingecko.com/api/v3/coins/bitcoin?localization=false&tickers=false&market_data`
-    ).then(r => r.json())).market_data.current_price.usd;
+        `https://www.bitstamp.net/api/ticker/`
+    ).then(r => r.json())).last;
 
     const leaderBoard = predictions
         .split("\n")
@@ -193,13 +193,16 @@ async function main() {
             price = Number(price.replace(/,/g, ""));
             return { price: price, user, delta: Math.abs(btcPrice - price) };
         })
-        .sort((a, b) => b.delta - a.delta);
+        .sort((a, b) => a.delta - b.delta);
 
     const table = document.querySelector("#table");
+
+    let i = 0
     for (const { user, price, delta } of leaderBoard) {
         const item = document.createElement("div");
-        item.textContent = `${price}    ${delta.toFixed(0)}    ${user}`;
-        table.prepend(item);
+        item.textContent = `${i}. ${price}    ${delta.toFixed(0)}    ${user}`;
+        table.append(item);
+        i++
     }
     document.getElementById(
         "btcPrice"
