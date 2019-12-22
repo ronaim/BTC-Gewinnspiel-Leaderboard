@@ -200,7 +200,7 @@ async function main() {
     let i = 0
     for (const { user, price, delta } of leaderBoard) {
         const item = document.createElement("div");
-        item.textContent = `${i}. ${price}    ${delta.toFixed(0)}    ${user}`;
+        item.textContent = `${i+1}. ${price}    ${delta.toFixed(0)}    ${user}`;
         item.classList.add("table-item")
         table.append(item);
         i++
