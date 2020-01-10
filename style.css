@@ -14,7 +14,6 @@ html {
     font-size: 22px;
 }
 
-.table-item {
-    margin-bottom: 8px;
-    border-bottom: solid 1px black;
+table {
+    border-spacing: 8px;
 }
