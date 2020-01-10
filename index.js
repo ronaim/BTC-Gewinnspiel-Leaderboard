@@ -1,185 +1,214 @@
 
-const predictions = `1308       Yassin
-2913       Khaos77
-4765       Scheede
-4780       tvplus006
-5183       haloxon
-5384       GrosWesh
-5450       Biodom   *H
-5660       makrospex
-5850       Lakai01
-6000       adaseb *
-6111       xyz
-6218       StartupAnalyst *
-6370       Millionero *
-6383       sgbett        *H
-6400       Phil_S
-6500       JSRAW                  H
-6613       STT
-6666       iwantapony
-6755       Heisenberg_Hunter *
-6820       Koal-84 *
-6890       morvillz7z
-7000       Globb0 *                    (previous winner)
-7080       aundroid    *
-7187       Spray.
-7266       irsada
-7375       dragonvslinux *
-7510       illyiller            *H
-7650       hatshepsut93
-7777       rosezionjohn
-7856       bakasabo
-8000       marky89
-8080       FractalUniverse*
-8152       Real-Duke *
-8250       1r0n1c *
-8340       cabalism13
-8412       LibertValance
-8520       Iced
-8642       wttbs
-8765       ice18
-8850       Harkorede
-8880       leea-1334
-8999       Agrawas
-9050       squatter
-9100       tyKiwanuka *
-9200       HairyMaclairy *
-9212       bucciarati
-9315       ChrisPop
-9449       stompix
-9455       markdario112616 *
-9599       jojo69
-9666       Totscha
-9722       trumpman
-9800       rdluffy
-9831       TopTort777
-9876       Mbitr
-9888       GreatArkansas *
-9922       sirazimuth         H      (previous winner)
-10,000       nutildah               H
-10,050       asche                                            [for sports no affect on members above en below]
-10,101       mole0815
-10,123       Icygreen                 H
-10,155       Rahar0 2
-10,183       Reid
-10,200       illinest
-10,202       slaman29 *
-10,209       exstasie  *                            (previous winner)
-10,232       Red-Apple
-10,250       o48o              H
-10,296       gentlemand *                (previous winner)
-10,298       JanEmil
-10,300       error08
-10,327       bitmover
-10,384       xhomerx10               H
-10,455       rolling
-10,518       inanilujimi
-10,620       LogitechMouse
-10,666       Eric Cartman
-10,678       bitebits
-10,750       pooya87 *
-10,794       DaveWave                     H
-10,800       ChefImGartenPavillion
-10,900       wachtwoord
-11,050       samuraijin
-11,076       LTU_btc
-11,111       Searing
-11,250       viviansidney
-11,254       DarkIT
-11,320       ivomm *
-11,388       goldkingcoiner                      H
-11,432       sheenshane *
-11,500       BobLawblaw                H
-11,555       yazher
-11,750       bavicrypto
-11,978       Dunkelheit667        *H
-12,000       MCDev *
-12,010       vapourminer       H
-12,015       d_eddie         *H
-12,100       Natalim
-12,225       UNOE
-12,250       fabiorem
-12,297       sunny28
-12,345       o_e_l_e_o        H
-12,400       bitserve
-12,500       actmyname  H
-12,600       figmentofmyass
-12,688       psycodad
-12,777       asu
-12,835       GeoRW
-12,978       akhjob
-13,032       inthelongrun         H
-13,087       AT101ET
-13,200       Distinctin
-13,333       madnessteat
-13,475       Buchi-88
-13,560       1miau
-13,650       Sadlife
-13,797       Unknown01
-13,865       Ryker1 *
-13,870       Saint-loup
-14,000       igor72
-14,100       Vaculin
-14,200       chaser15 *
-14,248       Souri
-14,372       heslo
-14,500       machasm
-14,666       Febo *
-14,775       Zero1One0
-14,999       bitcampaign *
-15,000       stadus
-15,122       kurious       *H
-15,300       rodel caling *
-15,431       LFC_Bitcoin
-15,500       peter0425
-15,750       Dabs
-15,872       Hhampuz
-16,000       fillippone
-16,130       Bttzed03
-16,250       chronicsky
-16,260       Gyrsur *
-16,349       Soonandwaite
-16,523       PoolMinor       *H
-16,570       cygan
-16,666       piebeyb *
-16,755       DoublerHunter
-16,990       JimboToronto   *H
-17,000       rhomelmabini       H
-17,200       bkbirge          H
-17,409       N0sferatu
-17,450       plasticAiredale
-17,669       finaleshot2016
-17,825       DeathAngel
-18,000       Findingnemo
-18,100       White sugar  *
-18,856       Bitcoinaire *
-18,888       Wind_FURY
-19,197       NeuroticFish
-19,849       LoyceV
-20,200       btc78
-20,500       carlisle1
-20,950       mindrust
-21,284       efialtis
-21,599       Arriemoller
-21,900       infofront
-22,222       Last of the V8s   *H
-22,345       ChinkyEyes
-23,456       buwaytress              H
-23,755       epis11
-24,047       zarados
-24,500       VB1001
-25,000       serveria.com
-25,500       harizen
-26,000       bbc.reporter
-27,038       DireWolfM14
-29,500       Steamtyme       H
-29,990       MishaMuc
-33,333       micaxel
-34,033       smartcomet
-34,599       bitcoinPsycho *
-38383        F2b
-42,000       Elwar
-55,216       fsm247 *`;
+const predictions = `3101-3150          Yaplatu
+3151-3200          KTChampions *
+3451-3500          Eduarop
+4401-4450          rdbase
+4451-4500          MagicByt3
+5051-5100          fabiorem
+5151-5200          sgbett *
+5451-5500          cabalism13
+5601-5650          Asuspawer09
+5751-5800          Mallyx
+5801-5850          makrospex
+5901-5950          Mbitr
+5951-6000          Snork1979
+6001-6050          tyKiwanuka *
+6051-6100          tweetious
+6151-6200          bakasabo
+6201-6250          dothebeats *
+6251-6300          Heisenberg_Hunter *
+6301-6350          Spray. *
+6351-6400          DoublerHunter
+6401-6450          Saint-loup
+6451-6500          Icygreen *
+6501-6550          haloxon
+6551-6600          Majormax *
+6601-6650          bitebits
+6651-6700          Corrosive
+6701-6750          Polar91
+6751-6800          theymos *
+6801-6850          bbc.reporter *
+6851-6900          ChuckBuck
+6901-6950          Biodom
+6951-7000          Last of the V8s
+7001-7050          tvplus006
+7051-7100          sirazimuth
+7101-7150          GazetaBitcoin
+7151-7200          unsoindovo
+7201-7250          hosseinimr93 *
+7251-7300          wheelz1200
+7301-7350          dragonvslinux *
+7351-7400          Cryptotourist
+7401-7450          android17
+7451-7500          bct_ail
+7501-7550          iasenko
+7551-7600          xyz
+7601-7650          sheenshane
+7651-7700          7jaka7
+7701-7750          Lauda
+7751-7800          ezeminer *
+7801-7850          Globb0 *
+7851-7900          teeGUMES
+7901-7950          tg88
+7951-8000          leea-1334 *
+8001-8050          HairyMaclairy *
+8051-8100          wachtwoord
+8101-8150          brobbel
+8151-8200          gentlemand
+8201-8250          Ryker1
+8251-8300          JSRAW
+8301-8350          marlboroza
+8351-8400          efialtis
+8401-8450          TopTort777
+8451-8500          madnessteat
+8501-8550          pawel7777
+8551-8600          kurious  *
+8601-8650          oscar2000 *
+8651-8700          mindrust
+8701-8750          Phil_S *
+8751-8800          abel1337
+8801-8850          malevolent *
+8851-8900          mu_enrico
+8901-8950          stompix
+8951-9000          Mitchell
+9001-9050          Dunkelheit667 *
+9051-9100          actmyname
+9101-9150          Olegya199
+9151-9200          somac.
+9201-9250          psycodad
+9251-9300          Tytanowy Janusz
+9301-9350          hatshepsut93 *
+9351-9400          BobLawblaw
+9401-9450          Febo
+9451-9500          buwaytress *
+9501-9550          FutureBitcoin
+9551-9600          Vispilio
+9601-9650          1miau
+9651-9700          DragonDance
+9701-9750          JimboToronto *
+9751-9800          AlcoHoDL
+9801-9850          wwzsocki
+9851-9900          thisisntbic
+9901-9950          DeathAngel
+9951-10000        GrosWesh
+10001-10050      jojo69
+10051-10100      Pamoldar
+10101-10150      Lanatsa
+10151-10200      krogothmanhattan
+10201-10250      vapourminer
+10251-10300      JanEmil
+10301-10350      BitcoinPenny
+10351-10400      cryptobaboon
+10401-10450      RapTarX
+10451-10500      ivomm *
+10501-10550      DireWolfM14
+10551-10600      F2b
+10601-10650      hacker1001101001
+10651-10700      LoyceV *
+10701-10750      xLays
+10751-10800      d_eddie
+10801-10850      SPQRCoin
+10851-10900      akhjob
+10901-10950      Dabs
+10951-11000      wh1rlw1nd *
+11001-11050      RaspoBTC
+11051-11100      Swordsoffreedom *
+11101-11150      slaman29 *
+11151-11200      Searing
+11201-11250      FontSeli
+11251-11300      LFC_Bitcoin
+11301-11350      Real-Duke
+11351-11400      geophphreigh
+11401-11450      Sat0shisGhost
+11451-11500      bitmover
+11501-11550      LUCKMCFLY *
+11551-11600      alegotardo
+11601-11650      STT *
+11651-11700      bitserve
+11701-11750      johhnyUA *
+11751-11800      xenon131
+11801-11850      freedomgo
+11851-11900      Kasabus
+11901-11950      P_Shep
+11951-12000      WhiteManWhite
+12001-12050      Stedsm
+12051-12100      Soonandwaite
+12101-12150      naska21
+12151-12200      gokudera
+12201-12250      Lesbian Cow
+12251-12300      Darker45 *
+12301-12350      o_e_l_e_o
+12351-12400      Lakai01
+12401-12450      NeuroticFish
+12451-12500      cygan
+12501-12550      ChinkyEyes
+12551-12600      Questat
+12601-12650      tokeweed
+12651-12700      exstasie
+12701-12750      rhomelmabini
+12751-12800      Russlenat
+12801-12850      Nestade
+12851-12900      asu
+12901-12950      figmentofmyass
+13001-13050      Hhampuz
+13051-13100      jokers10
+13101-13150      hanspeter77
+13151-13200      Captain-Cryptory
+13201-13250      Yamifoud *
+13251-13300      SFR10
+13301-13350      JollyGood
+13351-13400      Yatsan
+13401-13450      eddie13
+13451-13500      Buchi-88
+13501-13550      epis11
+13551-13600      HI-TEC99
+13751-13800      squatter
+13951-14000      igor72
+14001-14050      klaaas
+14151-14200      Unknown01
+14201-14250      Hueristic
+14351-14400      Debonaire217
+14401-14450      mole0815
+14451-14500      Koal-84
+14501-14550      qwk
+14551-14600      Sanitough
+14601-14650      Viscore
+14651-14700      Lucasgabd
+14701-14750      fronti
+14751-14800      mirakal
+14901-14950      Steamtyme
+15001-15050      tranthidung
+15151-15200      zasad@
+15201-15250      TryNinja
+15251-15300      stadus
+16201-16250      plvbob0070
+16301-16350      Alai19 *
+16351-16400      xhomerx10
+16401-16450      finaleshot2016
+16501-16550      PoolMinor
+16601-16650      SwayStar123
+16801-16850      yefi
+16851-16900      Vaculin
+17001-17050      Paashaas
+17451-17500      friends1980
+17501-17550      minerjones
+17801-17850      HBKMusiK
+17951-18000      DdmrDdmr
+18801-18850      Wind_FURY
+18851-18900      rdluffy
+19501-19550      MishaMuc
+19651-19700      posi
+20001-20050      ChefImGartenPavillion
+21951-22000      bitcoinPsycho *
+22501-22550      Bitcoinaire
+22551-22600      bkbirge
+23201-23250      pressnegl
+23501-23550      Hyperjacked
+24501-24550      VB1001
+25001-25050      fillippone *
+28501-28550      Smartprofit
+34001-34050      smartcomet
+37001-37050      StartupAnalyst`;
 
 async function main() {
     const btcPrice = (await fetch(
@@ -189,25 +218,43 @@ async function main() {
     const leaderBoard = predictions
         .split("\n")
         .map(e => {
-            let [price, user] = e.split("       ");
-            price = Number(price.replace(/,/g, ""));
-            return { price: price, user, delta: Math.abs(btcPrice - price) };
+            let [price, user] = e.split("      ");
+            price = price.split("-").map(e => Number(e.replace(/,/g, "")));
+            user = user.replace(" *", "").trim()
+            delta = btcPrice > price[1] ? Math.abs(btcPrice - price[1]) : Math.abs(btcPrice - price[0]) //Math.abs(btcPrice - (price[0] + price[1]) / 2) 
+            sign = btcPrice > price[1] ? "-" : "+"
+            return { price, user, delta, sign };
         })
         .sort((a, b) => a.delta - b.delta);
-
     const table = document.querySelector("#table");
 
     let i = 0
-    for (const { user, price, delta } of leaderBoard) {
-        const item = document.createElement("div");
-        item.textContent = `${i+1}. ${price}    ${delta.toFixed(0)}    ${user}`;
+    for (const { user, price, delta, sign } of leaderBoard) {
+        const item = document.createElement("tr");
+
+
+        const priceTd = document.createElement("td")
+        const deltaTd = document.createElement("td")
+        const userTd = document.createElement("td")
+        priceTd.textContent = `${i}. ${price[0]}-${price[1]}`
+        userTd.textContent = user
+        if (i === 0) {
+            deltaTd.textContent = "0"
+
+        }
+        else {
+            deltaTd.textContent = `${sign}${delta.toFixed(0)}`
+        }
+        item.append(priceTd)
+        item.append(deltaTd)
+        item.append(userTd)
         item.classList.add("table-item")
         table.append(item);
         i++
     }
     document.getElementById(
         "btcPrice"
-    ).textContent = `Current Bitcoin price: ${btcPrice}\n`;
+    ).textContent = `Current Bitcoin price: $${btcPrice}\n`;
 }
 
 main();
