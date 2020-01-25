@@ -210,10 +210,26 @@ const predictions = `3101-3150          Yaplatu
 34001-34050      smartcomet
 37001-37050      StartupAnalyst`;
 
+async function getPrice() {
+    try {
+        let btcPrice = (await fetch(
+            `https://www.bitstamp.net/api/ticker/`
+        ).then(r => r.json())).last;
+        return btcPrice
+    }
+    catch (e) {
+        console.error(e)
+        let btcPrice = (await fetch(
+            `https://api.coingecko.com/api/v3/coins/bitcoin?localization=false&tickers=false&market_data`
+        ).then(r => r.json())).market_data.current_price.usd;
+        return btcPrice
+    }
+
+
+}
+
 async function main() {
-    const btcPrice = (await fetch(
-        `https://www.bitstamp.net/api/ticker/`
-    ).then(r => r.json())).last;
+    const btcPrice = await getPrice()
 
     const leaderBoard = predictions
         .split("\n")
@@ -227,7 +243,8 @@ async function main() {
         })
         .sort((a, b) => a.delta - b.delta);
     const table = document.querySelector("#table");
-
+    table.innerHTML = ""   
+    
     let i = 0
     for (const { user, price, delta, sign } of leaderBoard) {
         const item = document.createElement("tr");
@@ -258,3 +275,4 @@ async function main() {
 }
 
 main();
+setInterval(main, 30000)
