@@ -24,7 +24,7 @@ const predictions = `5601 - 5650         bitcoincidence
 14951 - 15000         Unknown01
 15001 - 15050         MishaMuc
 16501 - 16550         o_solo_miner
-18831 - 18.880        MinoRaiola
+18831 - 18880        MinoRaiola
 19001 - 19050         Alabasta
 55201 - 55250         fsm247`;
 
