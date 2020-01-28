@@ -89,7 +89,7 @@ async function main() {
     }
     document.getElementById(
         "btcPrice"
-    ).textContent = `Current Bitcoin price: $${btcPrice}\n`;
+    ).textContent = `aktueller Bitcoinpreis: $${btcPrice}\n`;
 }
 
 main();
