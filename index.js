@@ -1,6 +1,5 @@
 
-const predictions = `
-5601 - 5650             bitcoincidence
+const predictions = `5601 - 5650             bitcoincidence
 6301 - 6350             Spray.
 7351 - 7400             Chris601
 7001 - 7050             Koal-84
