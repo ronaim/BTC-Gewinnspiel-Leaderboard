@@ -1,18 +1,18 @@
 
-const predictions = `5601 - 5650             bitcoincidence
-6301 - 6350             Spray.
-7351 - 7400             Chris601
-7001 - 7050             Koal-84
-7251 - 7300             haloxon
-7301 - 7350             mole0815
-7651 - 7700             xyz
-7951 - 8000             tyKiwanuka
-8001 - 8050             RaspoBTC
-8051 - 8100             bct_ail
-8151 - 8200             Nestade
-8501 - 8550             hanspeter77
-9201 - 9250             Ov3R
-9901 - 9950             1miau
+const predictions = `5601 - 5650         bitcoincidence
+6301 - 6350         Spray.
+7351 - 7400         Chris601
+7001 - 7050         Koal-84
+7251 - 7300         haloxon
+7301 - 7350         mole0815
+7651 - 7700         xyz
+7951 - 8000         tyKiwanuka
+8001 - 8050         RaspoBTC
+8051 - 8100         bct_ail
+8151 - 8200         Nestade
+8501 - 8550         hanspeter77
+9201 - 9250         Ov3R
+9901 - 9950         1miau
 10001 - 10050         Real-Duke
 10701 - 10750         micgoossens
 11001 - 11050         Lakai
