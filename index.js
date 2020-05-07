@@ -1,5 +1,5 @@
 
-const predictions = `4100 - 4199             Spray..
+const predictions = `4100 - 4199             Spray.
 6700 - 6799             haloxon
 7000 - 7099             Koal-84
 6100 - 6199             xyz
