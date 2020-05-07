@@ -7,7 +7,7 @@ const predictions = `4100 - 4199         Spray
 6600 - 6699         Souri
 7200 - 7299         BTC-Liz
 7400 - 7499         Real-Duke
-7800 – 7899         btc-ail
+7800 - 7899         btc-ail
 8500 - 8599         hanspeter77
 9200 - 9299         Soonandwaite
 9600 - 9699         CoinEraser
