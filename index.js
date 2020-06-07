@@ -85,7 +85,7 @@ async function main() {
     }
     document.getElementById(
         "btcPrice"
-    ).textContent = `aktueller Bitcoinpreis: {btcPrice} € \n`;
+    ).textContent = `aktueller Bitcoinpreis: {btcPrice}\n`;
 }
 
 main();
