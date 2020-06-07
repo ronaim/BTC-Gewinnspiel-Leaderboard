@@ -35,7 +35,7 @@ async function getPrice() {
         console.error(e)
         let btcPrice = (await fetch(
             `https://api.coingecko.com/api/v3/coins/bitcoin?localization=false&tickers=false&market_data`
-        ).then(r => r.json())).market_data.current_price.usd;
+        ).then(r => r.json())).market_data.current_price.eur;
         return btcPrice
     }
 
@@ -85,7 +85,7 @@ async function main() {
     }
     document.getElementById(
         "btcPrice"
-    ).textContent = `aktueller Bitcoinpreis: $${btcPrice}\n`;
+    ).textContent = `aktueller Bitcoinpreis: {btcPrice} € \n`;
 }
 
 main();
