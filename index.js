@@ -27,7 +27,7 @@ const predictions = `4100 - 4199         Spray
 async function getPrice() {
     try {
         let btcPrice = (await fetch(
-            `https://www.bitstamp.net/api/ticker/`
+            `https://www.bitstamp.net/api/v2/ticker/btceur/`
         ).then(r => r.json())).last;
         return btcPrice
     }
